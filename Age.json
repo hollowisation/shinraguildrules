@@ -1,0 +1,17 @@
+{
+  "version": 3,
+  "backups": [
+    {
+      "name": "Age",
+      "message": {
+        "embeds": [
+          {
+            "title": "Choose your age: ",
+            "description": "🔞 : <@&724921283380510809>\n👶 : <@&724921283380510808>",
+            "color": 4771071
+          }
+        ]
+      }
+    }
+  ]
+}
